@@ -13,25 +13,19 @@
 </head>
 
 <body>
-<div class="row">
-      <div class="col-12" id="navbar">
-        <?php include("./navigation.php");?>
-      </div>
+    <div class="row">
+        <div class="col-12" id="navbar">
+            <?php include("./navigation.php"); ?>
+        </div>
     </div>
     <div class="container">
         <div class="row">
             <div class="col-4"></div>
             <div class="col-4">
-                <div class="card" id="card1">
-                    <img src="./img/Daltonlaan-opti.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">welkomstwoord</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    </div>
-                </div>
-
+            <h1>Welkomstwoord</h1>
             </div>
             <div class="col-4"></div>
+
         </div>
     </div>
 
