@@ -18,14 +18,16 @@
             <?php include("./navigation.php"); ?>
         </div>
     </div>
-    <div class="container">
+    <div class="container" id="homepage_tekst">
         <div class="row">
             <div class="col-4"></div>
             <div class="col-4">
-            <h1>Welkomstwoord</h1>
+                <h1>Welkomstwoord</h1>
             </div>
             <div class="col-4"></div>
-
+        </div>
+        <div class="row">
+            
         </div>
     </div>
 
