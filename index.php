@@ -22,37 +22,19 @@
         <div class="row">
             <div class="col-4"></div>
             <div class="col-4">
-<<<<<<< HEAD
-                <h1>Welkomstwoord</h1>
+                 <h1>Welkomstwoord</h1>
             </div>
             <div class="col-4"></div>
         </div>
-        <div class="row">
-            
-=======
-<<<<<<< HEAD
-                <div class="card" id="card1">
-                    <img src="./img/Daltonlaan-opti.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">welkomstwoord</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-         <div class="col-12" id="footer">
-        <?php include("./footer.php");?>
-      </div>
     </div>
-=======
-            <h1>Welkomstwoord</h1>
-            </div>
-            <div class="col-4"></div>
+    <div class="row">
+        <div class="col-12" id="footer">
+            <?php include("./footer.php"); ?>
+        </div>
+    </div>
+    
 
->>>>>>> edbf8dfe43d19291a806dc845c2b96019d5e3c63
->>>>>>> d1be7568df93fe388f65c05968aeaf8cc927ab5e
-        </div>
-    </div>
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
