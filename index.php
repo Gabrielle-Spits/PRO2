@@ -13,15 +13,16 @@
 </head>
 
 <body>
-<div class="row">
-      <div class="col-12" id="navbar">
-        <?php include("./navigation.php");?>
-      </div>
+    <div class="row">
+        <div class="col-12" id="navbar">
+            <?php include("./navigation.php"); ?>
+        </div>
     </div>
     <div class="container">
         <div class="row">
             <div class="col-4"></div>
             <div class="col-4">
+<<<<<<< HEAD
                 <div class="card" id="card1">
                     <img src="./img/Daltonlaan-opti.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -35,6 +36,12 @@
         <?php include("./footer.php");?>
       </div>
     </div>
+=======
+            <h1>Welkomstwoord</h1>
+            </div>
+            <div class="col-4"></div>
+
+>>>>>>> edbf8dfe43d19291a806dc845c2b96019d5e3c63
         </div>
     </div>
 
