@@ -5,3 +5,10 @@ background-color:  #808080 ;
 #navbar {
 background-color: white;
 }
+#footer{
+    background-color: rgb(177, 55, 55);
+    text-align: center;
+    color: rgb(53, 44, 44);
+    padding:20px;
+    background-image: linear-gradient(red, rgb(255, 255, 0));
+}
