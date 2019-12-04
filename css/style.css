@@ -2,14 +2,20 @@
 background-color:  #808080 ;
 }
 
-#navbar {
-background-color: white;
+.navbar {
+background-color: #000000;
+
 }
 
 #footer{
-    background-color: rgb(177, 55, 55);
+    background-color: red;
+    color: whitesmoke;
     text-align: center;
-    color: rgb(53, 44, 44);
-    padding:20px;
-    background-image: linear-gradient(red, rgb(255, 255, 0));
+    font-family: 'Crafty Girls', cursive;
+    border: 25px solid #35682d;
+}
+
+    
+.nav-link{
+    color: white;
 }

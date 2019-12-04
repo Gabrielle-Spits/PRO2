@@ -18,6 +18,7 @@
             <?php include("./navigation.php"); ?>
         </div>
     </div>
+
     <div class="container">
         <div class="row">
             <div class="col-4"></div>
@@ -31,8 +32,24 @@
             <h1>Welkomstwoord</h1>
             </div>
             <div class="col-4"></div>
+
+    <div class="row">
+        <div class="col-12">
+            <?php include("./header.php"); ?>
         </div>
     </div>
+    <div class="container" id="homepage_tekst">
+       
+        
+    </div>
+    <div class="row">
+        <div class="col-12" id="footer">
+            <?php include("./footer.php"); ?>
+        </div>
+    </div>
+    
+
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
