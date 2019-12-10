@@ -25,6 +25,9 @@
       <li class="nav-item">
         <a class="nav-link" href="./index.php?content=verlanglijstje">game</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="./index.php?content=verlanglijstje">contact</a>
+      </li>
     </ul>
   </div>
 </nav>

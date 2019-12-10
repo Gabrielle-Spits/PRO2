@@ -1,6 +1,4 @@
-#card{
-background-color:  #808080 ;
-}
+
 
 .navbar {
 background-color: #000000;
@@ -8,11 +6,15 @@ background-color: #000000;
 }
 
 #footer{
-    background-color: red;
+    position: absolute;
+    bottom: 0;
+    left: 0;
     color: whitesmoke;
+    background-color: #35682d ;
     text-align: center;
     font-family: 'Crafty Girls', cursive;
-    border: 25px solid #35682d;
+    
+
 }
 
     
