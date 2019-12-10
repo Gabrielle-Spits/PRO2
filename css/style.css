@@ -1,0 +1,26 @@
+#card{
+background-color:  #808080 ;
+}
+
+.navbar {
+background-color: #000000;
+
+}
+
+#footer{
+    background-color: red;
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Crafty Girls', cursive;
+    border: 25px solid #35682d;
+}
+
+    
+.nav-link{
+    color: white;
+}
+
+.carousel{
+    height: 50%;
+    width: 10;
+}
