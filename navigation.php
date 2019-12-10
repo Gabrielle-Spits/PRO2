@@ -6,21 +6,22 @@
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" href="./index.php?content=tekstrow3">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="./index.php?content=home">Home <span class="sr-only">(current)</span></a>
       </li>
 
       </li>
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle" href="./index.php?content=opleidingen" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           opleidingen
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">politie</a>
-          <a class="dropdown-item" href="#">bedrijven</a>
+        <a class="dropdown-item" href="./index.php?content=opleidingen">opleidng</a>
+        <a class="dropdown-item" href="#">politie</a>
+        <a class="dropdown-item" href="#">bedrijven</a>
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="./index.php?content=verlanglijstje">aanmelden</a>
+        <a class="nav-link" href="./index.php?content=aanmelden">aanmelden</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="./index.php?content=verlanglijstje">game</a>
