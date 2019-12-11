@@ -36,6 +36,7 @@
                     Ook is er een game die je kan spelen.
                     <br>
                     Als je deze opleiding nu al leuk vindt kan je je al inschrijven onder het kopje aanmelden.</p>
+            <img src="./img/hackeridee" alt="">
             </div>
         </div>
 
@@ -43,4 +44,3 @@
         <div class="col-12" id="footer">
             <?php include("./footer.php"); ?>
         </div>
-    </div>
