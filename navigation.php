@@ -16,18 +16,18 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
         <a class="dropdown-item" href="./index.php?content=opleidingen">opleidng</a>
-        <a class="dropdown-item" href="#">politie</a>
-        <a class="dropdown-item" href="#">bedrijven</a>
+        <a class="dropdown-item" href="./index.php?content=politie">politie</a>
+        <a class="dropdown-item" href="./index.php?content=bedrijven">bedrijven</a>
         </div>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="./index.php?content=aanmelden">aanmelden</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="./index.php?content=verlanglijstje">game</a>
+        <a class="nav-link" href="./index.php?content=game">game</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="./index.php?content=verlanglijstje">contact</a>
+        <a class="nav-link" href="./index.php?content=contact">contact</a>
       </li>
     </ul>
   </div>

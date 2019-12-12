@@ -1,7 +1,7 @@
 <div container>
     <div class="row">
         <div class="col-6">
-            <h4> adres:</h4>
+            <h4> Adres:</h4>
             <h5>
                 Daltonlaan 300
             </h5>
@@ -13,7 +13,7 @@
             </h5>
         </div>
         <div class="col-6">
-            <h4>contact</h4>
+            <h4>Contact:</h4>
             <h5>
                 Mail: studiekeuze@mboutrecht.nl
             </h5>
