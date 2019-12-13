@@ -2,16 +2,20 @@
 
 .navbar {
 background-color: #000000;
-
 }
 
+
+
 #footer{
-    position: absolute;
+    position: fixed;
+    display: inline-block;
+    padding-top: 10px;
     bottom: 0;
     left: 0;
     color: whitesmoke;
     background-color: #35682d ;
     text-align: center;
+    border: 2px ;
 
 }
 
@@ -20,4 +24,6 @@ background-color: #000000;
     color: white;
 
 }
+
+
 
