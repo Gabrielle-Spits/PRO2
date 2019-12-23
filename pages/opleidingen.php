@@ -4,11 +4,11 @@
     </div>
 </div>
 
-<div class="container p-0">
+<div class="container-fluid p-0">
     <div class="row"> 
         <div class="col-12">
             <h1>de opleiding</h1>
-            <h7>wat houd de opleiding in?</h7>
+            <h7>wat houd de opleiding in? Je leert hacken voor bedrijven of de politie om zo criminele acties tegen te kunnen houden</h7>
         </div>
     </div>
     <div class="row">

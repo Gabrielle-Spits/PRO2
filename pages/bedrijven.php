@@ -8,7 +8,7 @@
 
 
     <!-- Portfolio Item Heading -->
-    <h1 class="my-4">bedrijfen
+    <h1 class="my-4">bedrijven
     </h1>
 
     <!-- Portfolio Item Row -->
