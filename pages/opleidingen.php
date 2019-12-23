@@ -4,8 +4,8 @@
     </div>
 </div>
 
-<div class="container">
-    <div class="row">
+<div class="container p-0">
+    <div class="row"> 
         <div class="col-12">
             <h1>de opleiding</h1>
             <h7>wat houd de opleiding in?</h7>
