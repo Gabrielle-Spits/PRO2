@@ -45,19 +45,27 @@
 
 
 <div class="row">
-    <div class="col-6"></div>
-    <div class="col-6">
-        <div class="card" style="max-width: 540px;">
-            <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Onze locatie op de Daltonlaan (Uithof) is goed bereikbaar met het openbaar vervoer. De bus stopt voor de deur. Vanaf Utrecht Centraal Station ben je met 20 minuten op school.</p>
-                <p class="card-text"><small class="text-muted">now</small></p>
+    <div class="card mb-3" style="max-width: 500px;">
+        <div class="row no-gutters">
+            <div class="col-4">
+                <img src="./img/contact.jpg" class="card-img" alt="...">
+            </div>
+            <div class="col-8">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                </div>
             </div>
         </div>
     </div>
+
+
+
 </div>
-
-
+</div>
+</div>
+</div>
 
 
 

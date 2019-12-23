@@ -11,7 +11,7 @@
 
 #footer{
     position: fixed;
-    pad ding-top: 10px;
+    padding-top: 10px;
     bottom: 0;
     left: 0;
     color: whitesmoke;
@@ -24,6 +24,12 @@
     
 .nav-link{
     color: white;
+
+}
+
+#border{
+    border-style: solid;
+    border: 2px;
 
 }
 
