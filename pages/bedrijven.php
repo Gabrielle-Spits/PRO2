@@ -1,14 +1,10 @@
-<div class="row">
-    <div class="col-12" id="navbar">
-        <?php include("./navigation.php"); ?>
-    </div>
-</div>
+
 
 
 
 
     <!-- Portfolio Item Heading -->
-    <h1 class="my-4">bedrijven
+    <h1>bedrijven
     </h1>
 
     <!-- Portfolio Item Row -->

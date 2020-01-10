@@ -12,7 +12,9 @@
     <title>Hello, world!</title>
 </head>
 <body>
-    <main class="container-fluid p-0">
+<?php include("./navigation.php"); ?>
+
+    <main class="container-fluid">
 
      <?php
         if (isset($_GET['content'])) {
