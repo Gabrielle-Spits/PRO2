@@ -5,15 +5,15 @@
     <div class="col-6">
         <div class="jumbotron">
             <h1 class="display-4">Welkomstwoord</h1>
-            <p class="lead">Welkom op deze website.
-                <br>
-                Hier kun je informatie vinden over de opleiding ethisch hacken.
-                <br>
-                Zoals hoelang de opleiding duurt. Welke kanten je op kan.
-                <br>
-                Ook is er een game die je kan spelen.
-                <br>
-                Als je deze opleiding nu al leuk vindt kan je je al inschrijven onder het kopje aanmelden.</p>
+            <h4>Welkom op deze website</h4>
+            <h5>Hier kun je informatie vinden over de opleiding ethisch hacken. Bij het kopje opleiding kun je meer informatie vinden over hoelang de opleiding duurt en wat de uitstromingen zijn. Ook kun je je aanmelden voor de opleiding en een game spelen. 
+            <br>
+            <br>
+            Hopelijk tot snel,
+            <br>
+            Mbo Utrecht
+            <br>
+            <br>
             <img src="./img/hackeridee" alt="">
         </div>
 

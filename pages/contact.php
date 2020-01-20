@@ -1,4 +1,4 @@
-
+<br>
 
 
 <div class="row">
@@ -25,42 +25,22 @@
         </div>
     </div>
     <div class="col-6">
-        <h3 class="my-3">Contact</h3>
-        <p>Hier staan nog een keer alle informatie die je nodig hebt voor de opleiding en meer </p>
-        <h3 class="my-3">Contact</h3>
+        <h3 class="my-3">Routebeschijving</h3>
+        <h4>Daltonlaan 300</h4>
+        <p>Onze locatie op de Daltonlaan (Uithof) is goed bereikbaar met het openbaar vervoer. 
+        De bus stopt voor de deur. Vanaf Utrecht Centraal Station ben je met 20 minuten op school. </p>
+        <img src="./img/contact.PNG"alt="" width="250px" height="125px">
+        <h3 class="my-3">Contact gegevens</h3>
         <ul>
             <li>E-mail: studiekeuze@mboutrecht.nl</li>
             <li>WhatsApp: 06-25705051 </li>
             <li>Telefoon nummer: 030-281 51 00</li>
-            <li>Aders: Daltonlaan 300 </li>
+            <li>Adres: Daltonlaan 300 </li>
             <li>Postcode: 3584 BK Utrecht </li>
         </ul>
+        
     </div>
 </div>
-
-
-
-<div class="row">
-    <div class="card mb-3" style="max-width: 500px;">
-        <div class="row no-gutters">
-            <div class="col-4">
-                <img src="./img/contact.jpg" class="card-img" alt="...">
-            </div>
-            <div class="col-8">
-                <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
-
-
 
 
 <div class="col-12" id="footer">

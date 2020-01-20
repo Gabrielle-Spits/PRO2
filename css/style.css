@@ -38,3 +38,14 @@ h1:first-of-type {
     height: 100;
 
 }
+
+body{
+    font-family: 'Abel', sans-serif;
+    font-size: 15px;
+
+}
+
+#button{
+    background-color: #00AEEF;
+    color: #000000;
+}
