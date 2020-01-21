@@ -1,12 +1,10 @@
-<!-- Portfolio Item Heading -->
-<h1>Game en handleiding
-    </h1>
 
-    <!-- Portfolio Item Row -->
+<h1>Game en handleiding</h1>
+
     <div class="row">
 
         <div class="col-6">
-            <img class="img-fluid" src="http://placehold.it/750x500" alt="">
+        <iframe src="https://i.simmer.io/@AwesomeFabien/snake-hacker" style="width:750px;height:500px"></iframe>
         </div>
 
         <div class="col-6">
