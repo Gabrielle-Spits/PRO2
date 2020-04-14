@@ -49,3 +49,9 @@ body{
     background-color: #00AEEF;
     color: #000000;
 }
+
+body{
+    font-family: 'Abel', sans-serif;
+    font-size: 15px;
+
+}
